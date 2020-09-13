@@ -29,5 +29,13 @@
     <guid>https://sharkfincove.org/faq/index.html</guid>
     <pubDate>Mon, 7 Sep 2020 00:00:00 UT</pubDate>
   </item>
+  <item>
+    <title>Disclaimer</title>
+    <link>https://sharkfincove.org/disclaimer/index.html</link>
+    <description><![CDATA[A few important notes about this website.
+<br><a href="https://sharkfincove.org/disclaimer/index.html">Read more</a>]]></description>
+    <guid>https://sharkfincove.org/disclaimer/index.html</guid>
+    <pubDate>Sun, 13 Sep 2020 00:00:00 UT</pubDate>
+  </item>
 </channel>
 </rss>
