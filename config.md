@@ -7,7 +7,7 @@ The website_* must be defined for the RSS to work
 @def website_descr = "All the info you could ever want to know about Shark Fin Cove located in Santa Cruz / Davenport California"
 @def website_url   = "https://sharkfincove.org"
 
-@def author = "<a href='https://scholar.harvard.edu/logankilpatrick'>Logan Kilpatrick</a> & Contributors"
+@def author = "<a href='https://scholar.harvard.edu/logankilpatrick'>Logan Kilpatrick</a> & <a href='https://github.com/CA-Beaches/sharkfincove/graphs/contributors'>Contributors</a>"
 
 @def mintoclevel = 2
 

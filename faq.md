@@ -4,8 +4,6 @@
 @def rss_title = "FAQ"
 @def rss_pubdate = Date(2020, 09, 07)
 
-@def tags = ["syntax", "code", "image"]
-
 # FAQ
 
 Q: Will you be adding more FAQ's in the future?
