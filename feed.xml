@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Shark Fin Cove</title>
+  <title><![CDATA[Shark Fin Cove]]></title>
   <description><![CDATA[All the info you could ever want to know about Shark Fin Cove located in Santa Cruz / Davenport California
 ]]></description>
   <link>https://sharkfincove.org/</link>
   <atom:link href="https://sharkfincove.org/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>Disclaimer</title>
+    <title><![CDATA[Disclaimer]]></title>
     <link>https://sharkfincove.org/disclaimer/</link>
     <description><![CDATA[A few important notes about this website.
 <br><a href="https://sharkfincove.org/disclaimer/">Read more</a>]]></description>
@@ -14,7 +14,7 @@
     <pubDate>Sun, 13 Sep 2020 00:00:00 UT</pubDate>
   </item>
   <item>
-    <title>Learn more about Hiking at Shark Fin Cove</title>
+    <title><![CDATA[Learn more about Hiking at Shark Fin Cove]]></title>
     <link>https://sharkfincove.org/hiking/</link>
     <description><![CDATA[Learn more about Hiking at Shark Fin Cove
 <br><a href="https://sharkfincove.org/hiking/">Read more</a>]]></description>
@@ -22,7 +22,7 @@
     <pubDate>Mon, 7 Sep 2020 00:00:00 UT</pubDate>
   </item>
   <item>
-    <title>Beach</title>
+    <title><![CDATA[Beach]]></title>
     <link>https://sharkfincove.org/beach/</link>
     <description><![CDATA[Find out more details about the beach at Shark Fin Cove
 <br><a href="https://sharkfincove.org/beach/">Read more</a>]]></description>
@@ -30,7 +30,7 @@
     <pubDate>Mon, 7 Sep 2020 00:00:00 UT</pubDate>
   </item>
   <item>
-    <title>FAQ</title>
+    <title><![CDATA[FAQ]]></title>
     <link>https://sharkfincove.org/faq/</link>
     <description><![CDATA[A short set of frequently asked questions about Shark Fin Cove
 <br><a href="https://sharkfincove.org/faq/">Read more</a>]]></description>
