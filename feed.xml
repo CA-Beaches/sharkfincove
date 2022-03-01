@@ -1,41 +1,99 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-  <title><![CDATA[Shark Fin Cove]]></title>
-  <description><![CDATA[All the info you could ever want to know about Shark Fin Cove located in Santa Cruz / Davenport California
-]]></description>
-  <link>https://sharkfincove.org/</link>
-  <atom:link href="https://sharkfincove.org/feed.xml" rel="self" type="application/rss+xml" />
-  <item>
-    <title><![CDATA[Disclaimer]]></title>
-    <link>https://sharkfincove.org/disclaimer/</link>
-    <description><![CDATA[A few important notes about this website.
-<br><a href="https://sharkfincove.org/disclaimer/">Read more</a>]]></description>
-    <guid>https://sharkfincove.org/disclaimer/</guid>
-    <pubDate>Sun, 13 Sep 2020 00:00:00 UT</pubDate>
-  </item>
-  <item>
-    <title><![CDATA[Learn more about Hiking at Shark Fin Cove]]></title>
-    <link>https://sharkfincove.org/hiking/</link>
-    <description><![CDATA[Learn more about Hiking at Shark Fin Cove
-<br><a href="https://sharkfincove.org/hiking/">Read more</a>]]></description>
-    <guid>https://sharkfincove.org/hiking/</guid>
-    <pubDate>Mon, 7 Sep 2020 00:00:00 UT</pubDate>
-  </item>
-  <item>
-    <title><![CDATA[Beach]]></title>
-    <link>https://sharkfincove.org/beach/</link>
-    <description><![CDATA[Find out more details about the beach at Shark Fin Cove
-<br><a href="https://sharkfincove.org/beach/">Read more</a>]]></description>
-    <guid>https://sharkfincove.org/beach/</guid>
-    <pubDate>Mon, 7 Sep 2020 00:00:00 UT</pubDate>
-  </item>
-  <item>
-    <title><![CDATA[FAQ]]></title>
-    <link>https://sharkfincove.org/faq/</link>
-    <description><![CDATA[A short set of frequently asked questions about Shark Fin Cove
-<br><a href="https://sharkfincove.org/faq/">Read more</a>]]></description>
-    <guid>https://sharkfincove.org/faq/</guid>
-    <pubDate>Mon, 7 Sep 2020 00:00:00 UT</pubDate>
-  </item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Shark Fin Cove  ]]>
+    </title>
+    <link> https://sharkfincove.org </link>
+    <description>
+      <![CDATA[  All the info you could ever want to know about Shark Fin Cove located in Santa Cruz / Davenport California  ]]>
+    </description>
+    <atom:link
+      href="https://sharkfincove.org/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Disclaimer  ]]>
+  </title>
+  <link> https://sharkfincove.org/disclaimer/index.html </link>
+  <guid> https://sharkfincove.org/disclaimer/index.html </guid>
+  <description>
+    <![CDATA[  A few important notes about this website.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name><a href='https://scholar.harvard.edu/logankilpatrick'>Logan Kilpatrick</a> & <a href='https://github.com/CA-Beaches/sharkfincove/graphs/contributors'>Contributors</a></atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Learn more about Hiking at Shark Fin Cove  ]]>
+  </title>
+  <link> https://sharkfincove.org/hiking/index.html </link>
+  <guid> https://sharkfincove.org/hiking/index.html </guid>
+  <description>
+    <![CDATA[  Learn more about Hiking at Shark Fin Cove  ]]>
+  </description>  
+    
+  <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name><a href='https://scholar.harvard.edu/logankilpatrick'>Logan Kilpatrick</a> & <a href='https://github.com/CA-Beaches/sharkfincove/graphs/contributors'>Contributors</a></atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Beach  ]]>
+  </title>
+  <link> https://sharkfincove.org/beach/index.html </link>
+  <guid> https://sharkfincove.org/beach/index.html </guid>
+  <description>
+    <![CDATA[  Find out more details about the beach at Shark Fin Cove  ]]>
+  </description>  
+    
+  <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name><a href='https://scholar.harvard.edu/logankilpatrick'>Logan Kilpatrick</a> & <a href='https://github.com/CA-Beaches/sharkfincove/graphs/contributors'>Contributors</a></atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  FAQ  ]]>
+  </title>
+  <link> https://sharkfincove.org/faq/index.html </link>
+  <guid> https://sharkfincove.org/faq/index.html </guid>
+  <description>
+    <![CDATA[  A short set of frequently asked questions about Shark Fin Cove  ]]>
+  </description>  
+    
+  <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name><a href='https://scholar.harvard.edu/logankilpatrick'>Logan Kilpatrick</a> & <a href='https://github.com/CA-Beaches/sharkfincove/graphs/contributors'>Contributors</a></atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
