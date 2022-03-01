@@ -2,7 +2,7 @@
 
 # Visitor's Guide
 
-Thinking of Visiting Shark Fin Cove? Read out guide below!
+Thinking of Visiting Shark Fin Cove? Read our guide below!
 
 ## Hours
 
